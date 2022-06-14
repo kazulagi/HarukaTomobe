@@ -52,7 +52,8 @@ Journal Paper
 
 
 - Tomobe Haruka, Murakami Akira. Estimation of Reinforced Shear Strength by Wheat Root System using Direct Shear Tests. Journal of Crop Research. 2016. 61. 0. 33-39
-TOMOBE Haruka, FUJISAWA Kazunori, MURAKAMI Akira. Shear Tests and Modeling of Root-Soil Contact Interface by Using Novel Pullout Test. Transactions of The Japanese Society of Irrigation, Drainage and Rural Engineering. 2016. 84. 3. I_223-I_232
+
+- TOMOBE Haruka, FUJISAWA Kazunori, MURAKAMI Akira. Shear Tests and Modeling of Root-Soil Contact Interface by Using Novel Pullout Test. Transactions of The Japanese Society of Irrigation, Drainage and Rural Engineering. 2016. 84. 3. I_223-I_232
 
 
 - Collection of the Wild Soybean (Glycine max (L.) Merr. ssp. soja) along the Yodo River in southern Kyoto Prefecture and northern Osaka Prefecture. 2012. 29. 127-133
