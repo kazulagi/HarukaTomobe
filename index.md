@@ -44,57 +44,51 @@ I graduated from the Graduate School of Agriculture at the Kyoto University (Kyo
 
 # Bibliography
 
-Journal Paper
+(<sup>*</sup> indicates the corresponding author)
 
 
-A Mohr-Coulomb-Vilar model for constitutive relationship in root-soil interface under changing suction
-H Tomobe, K Fujisawa, A Murakami
-Soils and Foundations 61 (3), 815-835	5	2021
-Experiments and FE-analysis of 2-D root-soil contact problems based on node-to-segment approach
-H Tomobe, K Fujisawa, A Murakami
-Soils and Foundations 59 (6), 1860-1874	2	2019
-A Complete Solution to a Long-Run Sand Augmentation Problem Under Uncertainty
-H Yoshioka, H Tomobe
-Modeling, Simulation and Optimization: Proceedings of CoMSO 2021, 127-133	1	2022
 
 ## 2023
 
-Journal paper
+### Journal paper
 
-- Hidekazu Yoshioka, Motoh Tsujimura, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>, Time‐average stochastic control based on a singular local Lévy model for environmental project planning under habit formation, Mathematical Methods in the Applied Sciences 46 (9), 10572-10601, 2023.
+- Hidekazu Yoshioka<sup>*</sup>, Motoh Tsujimura, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>, Time‐average stochastic control based on a singular local Lévy model for environmental project planning under habit formation, _Mathematical Methods in the Applied Sciences_, 46 (9), 10572-10601, 2023.
 
-- Harusato Kimura, Hitoshi Morikawa, <ins>Haruka Tomobe</ins>, Kahori Iiyama, Estimation of phase velocity using array observation of microtremors with arbitrary shape, Earth, Planets and Space 75 (1), 88, 2023.
-
-
-- <ins>Haruka Tomobe</ins>, Satoru Tsugawa, Yuki Yoshida, Tetsuya Arita, Allen Yi-Lun Tsai, Minoru Kubo, Taku Demura, Shinichiro Sawa, A mechanical theory of competition between plant root growth and soil pressure reveals a potential mechanism of root penetration, Scientific Reports 13 (1), 1-12, 2023.
+- Harusato Kimura, Hitoshi Morikawa<sup>*</sup>, <ins>Haruka Tomobe</ins>, Kahori Iiyama, Estimation of phase velocity using array observation of microtremors with arbitrary shape, _Earth, Planets and Space_, 75 (1), 88, 2023.
 
 
-- Hidekazu Yoshioka, Motoh Tsujimura, <ins>Haruka Tomobe</ins>, Modeling and computation of cost-constrained adaptive environmental management with discrete observation and intervention, Journal of Computational and Applied Mathematics 424, 114974, 2023.
+- <ins>Haruka Tomobe</ins>, Satoru Tsugawa<sup>*</sup>, Yuki Yoshida, Tetsuya Arita, Allen Yi-Lun Tsai, Minoru Kubo, Taku Demura, Shinichiro Sawa, A mechanical theory of competition between plant root growth and soil pressure reveals a potential mechanism of root penetration, _Scientific Reports_ , 13 (1), 1-12, 2023.
 
 
-- Taiken Nakashima, <ins>Haruka Tomobe</ins>, Takumi Morigaki, Mengfan Yang, Hiroto Yamaguchi, Yoichiro Kato, Wei Guo, Vikas Sharma, Harusato Kimura, Hitoshi Morikawa, Non-destructive high-throughput measurement of elastic-viscous properties of maize using a novel ultra-micro sensor array and numerical validation, Scientific Reports 13 (1), 4914, 2023.
+- Hidekazu Yoshioka<sup>*</sup>, Motoh Tsujimura, <ins>Haruka Tomobe</ins>, Modeling and computation of cost-constrained adaptive environmental management with discrete observation and intervention, _Journal of Computational and Applied Mathematics_ , 424, 114974, 2023.
 
 
-- Hidekazu Yoshioka, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>, A Non-local Fokker-Planck Equation with Application to Probabilistic Evaluation of Sediment Replenishment Projects, Methodology and Computing in Applied Probability 25 (1), 34, 2023.
+- Taiken Nakashima, <ins>Haruka Tomobe</ins><sup>*</sup>, Takumi Morigaki, Mengfan Yang, Hiroto Yamaguchi, Yoichiro Kato, Wei Guo, Vikas Sharma, Harusato Kimura, Hitoshi Morikawa, Non-destructive high-throughput measurement of elastic-viscous properties of maize using a novel ultra-micro sensor array and numerical validation, _Scientific Reports_ , 13 (1), 4914, 2023.
 
 
-- <ins>Haruka Tomobe</ins>, Vikas Sharma, Harusato Kimura, Hitoshi Morikawa, An Energy-based Overset Finite Element Method for Pseudo-static Structural Analysis, Journal of Scientific Computing 94 (3), 55, 2023.
+- Hidekazu Yoshioka<sup>*</sup>, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>, A Non-local Fokker-Planck Equation with Application to Probabilistic Evaluation of Sediment Replenishment Projects, _Methodology and Computing in Applied Probability_ , 25 (1), 34, 2023.
+
+
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Vikas Sharma, Harusato Kimura, Hitoshi Morikawa, An Energy-based Overset Finite Element Method for Pseudo-static Structural Analysis, _Journal of Scientific Computing_ , 94 (3), 55, 2023.
 
 
 
 ## 2022
 
+### Conference
+
+- Hidekazu Yoshioka<sup>*</sup>, <ins>Haruka Tomobe</ins>, A Complete Solution to a Long-Run Sand Augmentation Problem Under Uncertainty, Modeling, Simulation and Optimization: _Proceedings of CoMSO 2021_ , 127-133	1	2022
 
 ## 2021
 
 ### Journal paper
-- <ins>Haruka Tomobe</ins>, Kazunori Fujisawa, Akira Murakami. A Mohr-Coulomb-Vilar model for constitutive relationship in root-soil interface under changing suction. Soils and Foundations. 2021. 61. 3. 815-835
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Kazunori Fujisawa, Akira Murakami. A Mohr-Coulomb-Vilar model for constitutive relationship in root-soil interface under changing suction. _Soils and Foundations_, 61(3), 815-835, 2021. 
 
 ### Conference 
 
-- <ins>Haruka Tomobe</ins>, Yu Tanaka, Tomoya Watanabe. plantFEM: A Numerical Platform for Multi-physical Simulation of Plants. Third International Workshop on Machine Learning for Cyber-Agricultural Systems (MLCAS2021). 2021. 22
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Yu Tanaka, Tomoya Watanabe. plantFEM: A Numerical Platform for Multi-physical Simulation of Plants. _Third International Workshop on Machine Learning for Cyber-Agricultural Systems (MLCAS2021)_, 22, 2021.
 
-- Hidekazu Yoshioka, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>. Numerical Computation of Measure-Valued Solutions to a Hyperbolic Fokker-Planck Equation Subject to Nonlocal Boundary Conditions. International Conference on Applied Mathematics in Engineering (ICAME). 2021. 52-52
+- Hidekazu Yoshioka<sup>*</sup>, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>. Numerical Computation of Measure-Valued Solutions to a Hyperbolic Fokker-Planck Equation Subject to Nonlocal Boundary Conditions. _International Conference on Applied Mathematics in Engineering (ICAME)_, 52, 2021. 
 
 
 
@@ -103,28 +97,28 @@ Journal paper
 
 ### Journal paper
 
-- <ins>Haruka Tomobe</ins>, Kazunori Fujisawa, Akira Murakami. Experiments and FE-analysis of 2-D root-soil contact problems based on node-to-segment approach. Soils and Foundations. 2019. 59. 6. 1860-1874
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Kazunori Fujisawa, Akira Murakami. Experiments and FE-analysis of 2-D root-soil contact problems based on node-to-segment approach. _Soils and Foundations_, 59(6), 1860-1874, 2019.
 
 
 ## 2017
 
 ### Conference
 
-- <ins>Haruka Tomobe</ins>, Kazunori Fujisawa, Akira Murakami. Shear tests and modeling of root-soil contact interface using novel pullout test. The 15th International Conference of the International Association for Computer Methods and Advances in Geomechanics. 2017
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Kazunori Fujisawa, Akira Murakami. Shear tests and modeling of root-soil contact interface using novel pullout test. _The 15th International Conference of the International Association for Computer Methods and Advances in Geomechanics_, 2017.
 
 ## 2016 
 
 ### Journal paper
 
-- Tomobe Haruka, Murakami Akira. Estimation of Reinforced Shear Strength by Wheat Root System using Direct Shear Tests. Journal of Crop Research. 2016. 61. 0. 33-39
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Murakami Akira. Estimation of Reinforced Shear Strength by Wheat Root System using Direct Shear Tests. _Journal of Crop Research_, 61, 33-39, 2016. 
 
-- TOMOBE Haruka, FUJISAWA Kazunori, MURAKAMI Akira. Shear Tests and Modeling of Root-Soil Contact Interface by Using Novel Pullout Test. Transactions of The Japanese Society of Irrigation, Drainage and Rural Engineering. 2016. 84. 3. I_223-I_232
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Fujisawa Kazunori, Murakami Akira. Shear Tests and Modeling of Root-Soil Contact Interface by Using Novel Pullout Test. _Transactions of The Japanese Society of Irrigation, Drainage and Rural Engineering_, 84(3), 223-232, 2016.
 
 ## 2012
 
 ### Journal paper
 
-- Collection of the Wild Soybean (Glycine max (L.) Merr. ssp. soja) along the Yodo River in southern Kyoto Prefecture and northern Osaka Prefecture. 2012. 29. 127-133
+- <ins>Haruka Tomobe</ins><sup>*</sup>, Collection of the Wild Soybean (Glycine max (L.) Merr. ssp. soja) along the Yodo River in southern Kyoto Prefecture and northern Osaka Prefecture, _Annual report on exploration and introduction of plant genetic resources_, 29, 127-133, 2012.
 
 
 # Link to Google scholar
