@@ -52,6 +52,9 @@ I graduated from the Graduate School of Agriculture at the Kyoto University (Kyo
 
 ### Journal paper
 
+
+- Harusato Kimura<sup>*</sup>, <ins>Haruka Tomobe</ins>, Hitoshi Morikawa, Method for estimating azimuthal intensity distribution of microtremors using simple arrays, _Geophysical Journal International_, 2023. (In press)
+
 - Hidekazu Yoshioka<sup>*</sup>, Motoh Tsujimura, Kunihiko Hamagami, <ins>Haruka Tomobe</ins>, Time‐average stochastic control based on a singular local Lévy model for environmental project planning under habit formation, _Mathematical Methods in the Applied Sciences_, 46 (9), 10572-10601, 2023.
 
 - Harusato Kimura, Hitoshi Morikawa<sup>*</sup>, <ins>Haruka Tomobe</ins>, Kahori Iiyama, Estimation of phase velocity using array observation of microtremors with arbitrary shape, _Earth, Planets and Space_, 75 (1), 88, 2023.
